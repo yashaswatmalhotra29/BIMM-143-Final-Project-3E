@@ -1,0 +1,2 @@
+# BIMM-143-Final-Project-3E
+Hypothesis - Given the relationship that exists between TLR2 and TLR 4 as well as TLR2 and TLR6, I hypothesize that TLR2 and TLR4 share a higher similarity in their extracellular domain that is responsible for binding ligands as compared to TLR 2 and TLR 6 whereas TLR 2 and TLR 6 share a higher similarity in their transmembrane and intracellular domain as these regions interact via dimerization to activate downstream signaling. 
